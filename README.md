@@ -10,8 +10,8 @@ pkg install python -y
 
 pip install rich requests bs4
 
-git clone https://github.com/xyraadev52/Free
+git clone https://github.com/Ndz-XD/bruteforce
 
-cd Free
+cd bruteforce
 
 python krek.py
